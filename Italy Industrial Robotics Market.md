@@ -1,5 +1,6 @@
 # Italy’s Industrial Robotics Market Accelerates with Smart Manufacturing Breakthroughs
-![Uploading Italy Industrial Robotics Market.png…]()
+<img width="1920" height="1080" alt="Italy Industrial Robotics Market" src="https://github.com/user-attachments/assets/179d48fd-63b9-453e-88de-b1b43ae0e210" />
+
 
 ### Market Overview and Growth Trajectory
 The [**Italy Industrial Robotics Market**](https://www.nextmsc.com/report/italy-industrial-robotics-market-se3738) is witnessing strong upward momentum as automation becomes a strategic priority across manufacturing sectors. The market was valued at **USD 885.9 million** in 2024 and is projected to reach **USD 1052.4 million** in 2025. With increasing adoption of advanced robotics systems, the industry is expected to expand significantly, reaching **USD 1955.2 million** by 2030, registering a robust **CAGR of 13.2%** from 2025 to 2030. This growth reflects Italy’s commitment to enhancing industrial productivity, precision, and global competitiveness through automation.
